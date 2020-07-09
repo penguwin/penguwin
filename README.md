@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/penguwin/penguwin/master/assets/landing.gif)
+![](https://raw.githubusercontent.com/penguwin/penguwin/master/assets/shuttle.gif)
