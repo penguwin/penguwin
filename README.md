@@ -2,6 +2,7 @@
 
 #### Check out what I'm currently working on
 
+- [penguwin/fastmac](https://github.com/penguwin/fastmac) - 
 - [penguwin/monopriv](https://github.com/penguwin/monopriv) - Modified version of https://gitlab.com/kskarthik/monopriv
 - [penguwin/pengublog](https://github.com/penguwin/pengublog) - 
 - [penguwin/game_of_life](https://github.com/penguwin/game_of_life) - Rust library implementation of conway&#39;s game of life plus sdl2 and console example
