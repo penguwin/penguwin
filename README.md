@@ -10,5 +10,5 @@
 
 #### 🛰️ Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v1.1.0-pre.2](https://github.com/cli/cli/releases/tag/v1.1.0-pre.2), today) - GitHub’s official command line tool
+- [cli/cli](https://github.com/cli/cli) ([v1.1.0](https://github.com/cli/cli/releases/tag/v1.1.0), today) - GitHub’s official command line tool
 - [muesli/beehive](https://github.com/muesli/beehive) ([v0.4.0](https://github.com/muesli/beehive/releases/tag/v0.4.0), 5 months ago) - A flexible event/agent &amp; automation system with lots of bees 🐝
