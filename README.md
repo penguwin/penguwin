@@ -2,8 +2,8 @@
 
 #### 🚀 Check out what I'm currently working on
 
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (today)
 - [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (1 day ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (6 days ago)
 - [restic/others](https://github.com/restic/others) - Exhaustive list of backup solutions for Linux (6 days ago)
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (1 week ago)
 - [knoxite/website](https://github.com/knoxite/website) - knoxite.com (3 weeks ago)
