@@ -2,10 +2,10 @@
 
 #### 🚀 Check out what I'm currently working on
 
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 - [restic/others](https://github.com/restic/others) - Exhaustive list of backup solutions for Linux
 
 #### 🛰️ Latest releases I've contributed to
