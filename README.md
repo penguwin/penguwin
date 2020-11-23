@@ -10,7 +10,7 @@
 
 #### 🛰️ Latest releases I've contributed to
 
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.2.0](https://github.com/charmbracelet/glow/releases/tag/v1.2.0), 1 day ago) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.2.0](https://github.com/charmbracelet/glow/releases/tag/v1.2.0), 2 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.5](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.5), 1 week ago) - TUI components for Bubble Tea 🍡
 - [cli/cli](https://github.com/cli/cli) ([v1.2.1](https://github.com/cli/cli/releases/tag/v1.2.1), 1 week ago) - GitHub’s official command line tool
 
