@@ -10,8 +10,8 @@
 
 #### 🛰️ Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v1.3.0](https://github.com/cli/cli/releases/tag/v1.3.0), today) - GitHub’s official command line tool
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.2.0](https://github.com/charmbracelet/glow/releases/tag/v1.2.0), 3 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [cli/cli](https://github.com/cli/cli) ([v1.3.0](https://github.com/cli/cli/releases/tag/v1.3.0), 1 day ago) - GitHub’s official command line tool
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.2.0](https://github.com/charmbracelet/glow/releases/tag/v1.2.0), 4 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [The-Kid-Gid/nextinspace](https://github.com/The-Kid-Gid/nextinspace) ([v1.0.6](https://github.com/The-Kid-Gid/nextinspace/releases/tag/v1.0.6), 1 week ago) - Never miss a launch.
 
 #### ❤️ These awesome people sponsor me (thank you!)
