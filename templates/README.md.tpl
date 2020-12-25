@@ -7,7 +7,7 @@
 
 #### 🛰️ Latest releases I've contributed to
 {{range recentReleases 5}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}})) - {{.Description}}
 {{- end}}
 
 #### ❤️ These awesome people sponsor me (thank you!)
