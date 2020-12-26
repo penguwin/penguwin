@@ -14,3 +14,7 @@
 {{range sponsors 5}}
 - [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
+
+---
+
+> You may want to check out the nifty [readme-scribe](https://github.com/muesli/readme-scribe) to automatically generate & update markdown content (like your `README.md`) 🔭
