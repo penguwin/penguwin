@@ -10,9 +10,9 @@
 
 #### 🛰️ Latest releases I've contributed to
 
-- [The-Kid-Gid/nextinspace](https://github.com/The-Kid-Gid/nextinspace) ([v2.0.1](https://github.com/The-Kid-Gid/nextinspace/releases/tag/v2.0.1), 5 days ago) - 🚀 Never miss a launch.
+- [The-Kid-Gid/nextinspace](https://github.com/The-Kid-Gid/nextinspace) ([v2.0.1](https://github.com/The-Kid-Gid/nextinspace/releases/tag/v2.0.1), 6 days ago) - 🚀 Never miss a launch.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.3.0](https://github.com/charmbracelet/glow/releases/tag/v1.3.0), 1 week ago) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [cli/cli](https://github.com/cli/cli) ([v1.4.0](https://github.com/cli/cli/releases/tag/v1.4.0), 2 weeks ago) - GitHub’s official command line tool
+- [cli/cli](https://github.com/cli/cli) ([v1.4.0](https://github.com/cli/cli/releases/tag/v1.4.0), 3 weeks ago) - GitHub’s official command line tool
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.5](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.5), 1 month ago) - TUI components for Bubble Tea 🍡
 - [muesli/beehive](https://github.com/muesli/beehive) ([v0.4.0](https://github.com/muesli/beehive/releases/tag/v0.4.0), 8 months ago) - A flexible event/agent &amp; automation system with lots of bees 🐝
 
