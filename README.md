@@ -4,7 +4,7 @@
 
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (1 week ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (2 months ago)
-- [The-Kid-Gid/nextinspace](https://github.com/The-Kid-Gid/nextinspace) - Never miss a launch. 🚀 (2 months ago)
+- [The-Kid-Gid/nextinspace](https://github.com/The-Kid-Gid/nextinspace) - Never miss a launch. 🚀 (3 months ago)
 - [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (3 months ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (3 months ago)
 
