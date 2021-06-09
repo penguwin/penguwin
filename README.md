@@ -10,7 +10,7 @@
 
 #### 🛰️ Latest releases I've contributed to
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.8.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.8.0), 6 days ago) - TUI components for Bubble Tea 🍡
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.8.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.8.0), 1 week ago) - TUI components for Bubble Tea 🍡
 - [not-stirred/nextinspace](https://github.com/not-stirred/nextinspace) ([v2.0.3](https://github.com/not-stirred/nextinspace/releases/tag/v2.0.3), 1 week ago) - Never miss a launch. 🚀
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.4.1](https://github.com/charmbracelet/glow/releases/tag/v1.4.1), 2 months ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [muesli/beehive](https://github.com/muesli/beehive) ([v0.4.0](https://github.com/muesli/beehive/releases/tag/v0.4.0), 1 year ago) - A flexible event/agent &amp; automation system with lots of bees 🐝
