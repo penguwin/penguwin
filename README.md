@@ -5,7 +5,7 @@
 - [knoxite/website](https://github.com/knoxite/website) - knoxite.com (2 weeks ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (4 months ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (8 months ago)
-- [not-stirred/nextinspace](https://github.com/not-stirred/nextinspace) - Never miss a launch. 🚀 (8 months ago)
+- [not-stirred/nextinspace](https://github.com/not-stirred/nextinspace) - Never miss a launch. 🚀 (9 months ago)
 - [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (9 months ago)
 
 #### 🛰️ Latest releases I've contributed to
