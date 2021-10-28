@@ -10,7 +10,6 @@
 
 #### 🛰️ Latest releases I've contributed to
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.9.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.9.0), 1 month ago) - TUI components for Bubble Tea 🍡
 - [not-stirred/nextinspace](https://github.com/not-stirred/nextinspace) ([v2.0.3](https://github.com/not-stirred/nextinspace/releases/tag/v2.0.3), 5 months ago) - Never miss a launch. 🚀
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.4.1](https://github.com/charmbracelet/glow/releases/tag/v1.4.1), 6 months ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 
