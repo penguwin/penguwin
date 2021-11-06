@@ -15,7 +15,6 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [ma-hartma](https://github.com/ma-hartma) (11 months ago)
 
 ---
 
