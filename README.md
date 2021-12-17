@@ -9,7 +9,6 @@
 
 #### 🛰️ Latest releases I've contributed to
 
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.4.1](https://github.com/charmbracelet/glow/releases/tag/v1.4.1), 8 months ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 
 ---
 
