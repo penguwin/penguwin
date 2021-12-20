@@ -3,7 +3,7 @@
 #### 🚀 Check out what I'm currently working on
 
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (1 week ago)
-- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (1 week ago)
+- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (2 weeks ago)
 - [knoxite/website](https://github.com/knoxite/website) - knoxite.com (1 month ago)
 
 #### 🛰️ Latest releases I've contributed to
