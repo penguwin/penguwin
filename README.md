@@ -2,7 +2,7 @@
 
 #### 🚀 Check out what I'm currently working on
 
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (2 weeks ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (3 weeks ago)
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (3 weeks ago)
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (1 month ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 month ago)
@@ -10,7 +10,7 @@
 
 #### 🛰️ Latest releases I've contributed to
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.1), 3 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.1), 4 days ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.4.1](https://github.com/charmbracelet/melt/releases/tag/v0.4.1), 3 weeks ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.5.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.5.0), 3 weeks ago) - The SSH directory ✨
 
