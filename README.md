@@ -2,7 +2,7 @@
 
 #### 🚀 Check out what I'm currently working on
 
-- [teaxyz/pantry.extra](https://github.com/teaxyz/pantry.extra) - add ur pkgs here (5 days ago)
+- [teaxyz/pantry.extra](https://github.com/teaxyz/pantry.extra) - add ur pkgs here (6 days ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (8 months ago)
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (9 months ago)
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (9 months ago)
