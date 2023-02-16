@@ -2,10 +2,10 @@
 
 #### 🚀 Check out what I'm currently working on
 
-- [teaxyz/pantry.extra](https://github.com/teaxyz/pantry.extra) - add ur pkgs here (1 week ago)
+- [teaxyz/pantry.extra](https://github.com/teaxyz/pantry.extra) - add ur pkgs here (2 weeks ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (8 months ago)
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (9 months ago)
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (9 months ago)
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (10 months ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (10 months ago)
 
 #### 🛰️ Latest releases I've contributed to
