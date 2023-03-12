@@ -2,9 +2,9 @@
 
 #### 🚀 Check out what I'm currently working on
 
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (2 weeks ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (2 weeks ago)
-- [teaxyz/pantry.extra](https://github.com/teaxyz/pantry.extra) - add ur pkgs here (2 weeks ago)
+- [teaxyz/pantry.extra](https://github.com/teaxyz/pantry.extra) - add ur pkgs here (3 weeks ago)
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (10 months ago)
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (10 months ago)
 
