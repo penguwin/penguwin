@@ -10,9 +10,9 @@
 
 #### 🛰️ Latest releases I've contributed to
 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.7](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.7), today) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.10.0](https://github.com/charmbracelet/gum/releases/tag/v0.10.0), 1 day ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.10.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.10.0), 6 days ago) - The SSH directory ✨
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.6](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.6), 1 month ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.5.0](https://github.com/charmbracelet/melt/releases/tag/v0.5.0), 4 months ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
 
 ---
