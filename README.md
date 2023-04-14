@@ -2,7 +2,7 @@
 
 #### 🚀 Check out what I'm currently working on
 
-- [teaxyz/pantry](https://github.com/teaxyz/pantry) - pkg manifests (2 weeks ago)
+- [teaxyz/pantry](https://github.com/teaxyz/pantry) - pkg manifests (3 weeks ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 month ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (1 month ago)
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (11 months ago)
