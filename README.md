@@ -12,7 +12,6 @@
 
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.10.0](https://github.com/charmbracelet/gum/releases/tag/v0.10.0), 3 weeks ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.10.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.10.0), 1 month ago) - The SSH directory ✨
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.5.0](https://github.com/charmbracelet/melt/releases/tag/v0.5.0), 5 months ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
 
 ---
 
