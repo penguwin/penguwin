@@ -4,7 +4,7 @@
 
 - [teaxyz/pantry](https://github.com/teaxyz/pantry) - pkg manifests (5 months ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (5 months ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (5 months ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (6 months ago)
 
 #### 🛰️ Latest releases I've contributed to
 
