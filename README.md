@@ -2,7 +2,7 @@
 
 #### 🚀 Check out what I'm currently working on
 
-- [pkgxdev/pantry](https://github.com/pkgxdev/pantry) - pkg manifests (7 months ago)
+- [pkgxdev/pantry](https://github.com/pkgxdev/pantry) - pkg manifests (8 months ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (8 months ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (8 months ago)
 
