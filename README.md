@@ -8,7 +8,6 @@
 
 #### 🛰️ Latest releases I've contributed to
 
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.11.0](https://github.com/charmbracelet/gum/releases/tag/v0.11.0), 4 months ago) - A tool for glamorous shell scripts 🎀
 
 ---
 
