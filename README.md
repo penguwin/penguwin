@@ -2,13 +2,13 @@
 
 #### 🚀 Check out what I'm currently working on
 
-- [pkgxdev/pantry](https://github.com/pkgxdev/pantry) - pkg manifests (8 months ago)
+- [pkgxdev/pantry](https://github.com/pkgxdev/pantry) - pkg manifests (9 months ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (9 months ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (9 months ago)
 
 #### 🛰️ Latest releases I've contributed to
 
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.13.0](https://github.com/charmbracelet/gum/releases/tag/v0.13.0), 6 days ago) - A tool for glamorous shell scripts 🎀
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.13.0](https://github.com/charmbracelet/gum/releases/tag/v0.13.0), 1 week ago) - A tool for glamorous shell scripts 🎀
 
 ---
 
